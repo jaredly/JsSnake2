@@ -1,0 +1,12 @@
+img.preloading {
+    position:absolute;
+    visibility:hidden;
+    top:0px;
+    left:0px;
+}
+
+#screen {
+    width:100%;
+    height:100%;
+}
+.float{position:absolute;}
